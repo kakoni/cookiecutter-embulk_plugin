@@ -1,0 +1,1 @@
+Fine embulk plugin.

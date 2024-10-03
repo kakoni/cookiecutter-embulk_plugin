@@ -1,0 +1,10 @@
+{
+    "project_name": "myapp",
+    "package_name": "com.githup.mydream",
+    "license": ["Proprietary", "MIT", "GNU GPL v3.0", "Apache Software License 2.0"],
+    "project_display_name": "My Java App",
+    "project_version": "0.0.1",
+    "project_short_description": "A cwookiecutter template for creating reusable Java projects quickly",
+    "plugin_category": ["decoder", "encoder", "filter", "formatter", "guess", "input", "output", "parser"],
+    "plugin_type": "soap"
+}

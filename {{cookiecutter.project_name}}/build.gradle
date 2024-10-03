@@ -167,10 +167,10 @@ javadocJar {
 // Enable the following "gem" and "gemPush" tasks if you want to publish your plugin also as a Ruby Gem.
 
 gem {
-     authors = [ "Karri" ]
-     email = [ "kakoni@gmail.com" ]
+     authors = [ "..." ]
+     email = [ "..." ]
      // "description" of the Ruby Gem would come from "description" of the Gradle project.
-     summary = "Example input plugin for Embulk"
+     summary = "{{cookiecutter.project_short_description}}"
      homepage = "https://.../"
      licenses = [ "..." ]  // See: https://guides.rubygems.org/specification-reference/#license=
 
